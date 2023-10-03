@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunflwwer
-- 👀 I’m interested in c++, java, rinux, unity, react. django
-- 🌱 I’m currently learning unity
+- 👀 I’m interested in c++, java, unity, react.
+- 🌱 I’m currently learning react
 - 💞️ I’m now collaborate on Corner
 - 📫 How to reach me ghosti007@naver.com
 
