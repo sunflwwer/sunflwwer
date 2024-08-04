@@ -1,11 +1,13 @@
-<!-- Title Section -->
+<!-- Title Section with Waving Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 </div>
 
-
+<!-- Introduction with Typing SVG -->
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sunflwwer)](https://git.io/typing-svg)
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Sunflwwer" alt="Typing SVG" />
+  </a>
 </div>
 
 <!-- Tech Stack Section -->
