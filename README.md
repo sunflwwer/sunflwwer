@@ -18,7 +18,7 @@
 <br>
 <div align="center">
   <img src="https://img.shields.io/badge/unity5-150458.svg?style=for-the-badge&logo=unity&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/androidstudio-4d77cf.svg?style=for-the-badge&logo=androidstudio&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />&nbsp;
 </div>
 <br>
