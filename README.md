@@ -53,11 +53,11 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="https://velog.io/@sunflwwer">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>&nbsp;
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white"/>
+  </a>
   <a href="mailto:ghosti007@naver.com">
     <img src="https://img.shields.io/badge/ghosti007@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/>
-  </a>&nbsp;
+  </a>
 </div>
 <br>
 <br>
