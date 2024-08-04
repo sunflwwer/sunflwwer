@@ -1,8 +1,8 @@
-<!-- Title Section with Waving Banner 
+<!-- Title Section with Waving Banner -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 </div>
--->
+
 
 <!-- Introduction with Typing SVG -->
 <div align="center">
@@ -75,15 +75,9 @@
 </div>
 <br>
 
-<!-- GitHub Stats Section
+<!-- GitHub Stats Section-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
--->
 
-<!-- GitHub 통계 섹션 -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunflwwer&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunflwwer&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-contribution-calendar.vercel.app/api?username=sunflwwer" alt="GitHub Contribution Calendar" />
-</div>
+
